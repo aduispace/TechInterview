@@ -1,5 +1,8 @@
 # Object Oriented Programming
 
+1. Java is pass-by-value:对于原始类型（primitive type也译为值类型），是通过拷贝一个相同的值传给java方法的参数的；而对于引用类型（reference type），就是对象，是通过拷贝一个相同的应用或地址传给java方法的参数的。业界都统称这是pass-by-value(值传递)，这里是翻译一篇 国外的文章来说明为什么java中的值传递比较特别。
+
+
 ## Object Oriented Model
 
 - In OOP, computation is represented as the interaction among or communication between *objects*.
